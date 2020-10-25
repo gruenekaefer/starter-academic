@@ -1,0 +1,57 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Platelet count and mean platelet volume as prognostic markers of urosepsis
+subtitle: ''
+summary: ''
+authors:
+- Andri Kusuma Harmaya
+- M Ayodhia Soebadi
+- Soetojo Soetojo
+tags: []
+categories: []
+date: '2018-01-01'
+lastmod: 2020-10-25T19:01:46+07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-10-25T12:01:46.429397Z'
+publication_types:
+- '2'
+abstract: 'Objective: To know and determine platelet count (PLT) and mean platelet
+  volume (MPV) as prognostic factor for outcome in patients with urosepsis. Materials
+  & Methods: This was an analytic observational study. Thirty patients were assigned
+  to the test for PLT and MPV at the day of admission, 36 hours and 72 hours after
+  admission. All subjects were managed according to standard urosepsis therapy. At
+  the 28th day of treatment, patients were evaluated and classified the outcome as
+  survivors and non-survivors. The statistical analysis was performed using multivariate
+  logistic regression with software SPSS 21. In all tests, ptextless0.05 was considered
+  to indicate significance. Results: The mean of PLT in non-survivors was lower than
+  that in survivors at the day of admission (420 ± 343.57 x103/mm3 vs 423.04 ± 220.15
+  x103/mm3, p=0.838). Decrease in PLT during the first 72 hours after hospitalization
+  in non-survivors ($Δ$ PLT72h) was greater than that in survivors (-143.43 ± 154.15
+  x103/mm3 vs -51 ± 121.77 x103/mm3, p=0.050). The mean of MPV in non-survivors was
+  lower than that in survivors at the day of admission (6.30 ± 0.53 fL vs 7.25 ± 1.78
+  fL, p=0.333). Increase in MPV during the first 72 hours after hospitalization in
+  non-survivors ($Δ$ MPV72h) was greater than that in survivors (3.51 ± 0.86 x103/mm3
+  vs 1.48 ± 1.54 x103/mm3, p=0.028). In multivariate analysis, $Δ$ MPV72h was an independent
+  predictor of 28-day mortality [OR 9.41 (95% CI, 1.27 – 69.81)]. Conclusion: An increase
+  in MPV during the first 72 hours after hospitalization can be used as poor prognostic
+  in urosepsis patients.'
+publication: '*Indonesian Journal of Urology*'
+doi: 10.32421/juri.v25i2.461
+---

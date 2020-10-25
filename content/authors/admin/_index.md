@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yodi (M Ayodhia) Soebadi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Urology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universitas Airlangga
+  url: "https://www.unair.ac.id/site/menu/show/52/lecturer-detail/21-198011152010121002/-mohammad-ayodhia-soebadi-dr-spu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include implantable sensors, erectile dysfunction and reconstructive urology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Implantable Sensors
+- Erectile Dysfunction
+- Reconstructive Urology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Biomedical Sciences
+    institution: KU Leuven
+    year: 2020
+  - course: Urologist (Sp.U)
+    institution: Department of Urology Dr Soetomo Hospital Surabaya
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Medical Doctor (dr.)
+    institution: Faculty of Medicine Universitas Airlangga
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,10 +46,10 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?user=RqXoZNUAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yodi Soebadi was born in Surabaya, Indonesia in 1980. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He obtained his bachelor’s degree, attended training as a medical doctor and urologist at Universitas Airlangga and Dr. Soetomo Hospital, Indonesia. The subject of his final research project was “Resistive index of the prostatic arteries in male lower urinary tract symptoms”. He joined the Laboratory of Experimental Urology of KU Leuven affiliated with Department of Urology UZ Leuven, under the supervision of Prof. Dirk De Ridder and obtained a Ph.D. in Biomedical Sciences (2020).
